@@ -1,0 +1,14 @@
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\nail2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\nail2.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\nail2.AssemblyInfo.cs
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\nail2.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\nail2\bin\Debug\net8.0\nail2.exe
+C:\Users\prdb\source\repos\nail2\bin\Debug\net8.0\nail2.deps.json
+C:\Users\prdb\source\repos\nail2\bin\Debug\net8.0\nail2.runtimeconfig.json
+C:\Users\prdb\source\repos\nail2\bin\Debug\net8.0\nail2.dll
+C:\Users\prdb\source\repos\nail2\bin\Debug\net8.0\nail2.pdb
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\nail2.dll
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\refint\nail2.dll
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\nail2.pdb
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\nail2.genruntimeconfig.cache
+C:\Users\prdb\source\repos\nail2\obj\Debug\net8.0\ref\nail2.dll
